@@ -31,22 +31,33 @@
         <div class="ashade-nav-block">
             <nav class="ashade-nav">
                 <ul class="main-menu">
-                    <li class="{{ isActiveMenu('home') }}">
+                    <li>
+
+                    {{--                    <li class="{{ isActiveMenu('home') }}">--}}
                         <a href="{{ route('home') }}">Accueil</a>
                     </li>
-                    <li class="{{ isActiveMenu('artists.index') }}">
+                    <li>
+
+                    {{--                    <li class="{{ isActiveMenu('artists.index') }}">--}}
                         <a href="{{ route('artists.index') }}">Artistes</a>
                     </li>
-                    <li class="{{ isActiveMenu('events.index') }}">
+                    <li>
+
+                    {{--                    <li class="{{ isActiveMenu('events.index') }}">--}}
                         <a href="{{ route('events.index') }}">Évènements</a>
                     </li>
-                    <li class="{{ isActiveMenu('booking.index') }}">
+                    <li>
+
+                    {{--                    <li class="{{ isActiveMenu('booking.index') }}">--}}
                         <a href="{{ route('booking.index') }}">Réservation</a>
                     </li>
-                    <li class="{{ isActiveMenu('ticketing') }}">
+                    <li>
+
+                    {{--                    <li class="{{ isActiveMenu('ticketing') }}">--}}
                         <a href="{{ route('ticketing') }}">Billetterie</a>
                     </li>
-                    <li class="{{ isActiveMenu('contact.index') }}">
+                    <li>
+{{--                    <li class="{{ isActiveMenu('contact.index') }}">--}}
                         <a href="{{ route('contact.index') }}">Contact</a>
                     </li>
                 </ul>
