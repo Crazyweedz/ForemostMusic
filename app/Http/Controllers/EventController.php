@@ -21,4 +21,9 @@ class EventController extends Controller
 
         return view('events.show', compact('event'));
     }
+
+    public function show1()
+    {
+        return view('events.show1');
+    }
 }

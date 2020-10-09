@@ -23,9 +23,11 @@ Route::get('/', function () {
 
 Route::get('/artistes', [ArtistController::class, 'index'])->name('artists.index');
 Route::get('/artistes/{slug}', [ArtistController::class, 'show'])->name('artists.show');
+Route::get('/artistes/1/isabela-clerc', [ArtistController::class, 'show1'])->name('artists.show1');
 
 Route::get('/evenements', [EventController::class, 'index'])->name('events.index');
 Route::get('/evenements/{slug}', [EventController::class, 'show'])->name('events.show');
+Route::get('/evenements/1/live-streaming', [EventController::class, 'show1'])->name('events.show1');
 
 Route::get('/reservation', [BookingController::class, 'index'])->name('booking.index');
 Route::post('/reservation', [BookingController::class, 'send'])->name('booking.send');

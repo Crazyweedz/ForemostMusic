@@ -46,7 +46,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -56,7 +56,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -66,7 +66,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -76,7 +76,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -86,7 +86,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -96,7 +96,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -106,7 +106,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -116,7 +116,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -126,7 +126,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -136,7 +136,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -146,7 +146,7 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                                 <div class="ashade-album-item ashade-grid-item">
                                     <div class="ashade-album-item__image">
@@ -156,7 +156,47 @@
                                         <span>FR · BE · LU · NL</span>
                                         Isabela Clerc
                                     </h5>
-                                    <a href="{{ route('artists.show', 'isabela-clerc') }}" class="ashade-album-item__link"></a>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
+                                </div><!-- .ashade-album-item -->
+                                <div class="ashade-album-item ashade-grid-item">
+                                    <div class="ashade-album-item__image">
+                                        <img src="http://foremostmusic.fr/storage/artists/November2018/gD9MqQUfBnPYtxkGMRzW.jpeg" alt="Isabela Clerc" width="290" height="290">
+                                    </div>
+                                    <h5>
+                                        <span>FR · BE · LU · NL</span>
+                                        Isabela Clerc
+                                    </h5>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
+                                </div><!-- .ashade-album-item -->
+                                <div class="ashade-album-item ashade-grid-item">
+                                    <div class="ashade-album-item__image">
+                                        <img src="http://foremostmusic.fr/storage/artists/November2018/gD9MqQUfBnPYtxkGMRzW.jpeg" alt="Isabela Clerc" width="290" height="290">
+                                    </div>
+                                    <h5>
+                                        <span>FR · BE · LU · NL</span>
+                                        Isabela Clerc
+                                    </h5>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
+                                </div><!-- .ashade-album-item -->
+                                <div class="ashade-album-item ashade-grid-item">
+                                    <div class="ashade-album-item__image">
+                                        <img src="http://foremostmusic.fr/storage/artists/November2018/gD9MqQUfBnPYtxkGMRzW.jpeg" alt="Isabela Clerc" width="290" height="290">
+                                    </div>
+                                    <h5>
+                                        <span>FR · BE · LU · NL</span>
+                                        Isabela Clerc
+                                    </h5>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
+                                </div><!-- .ashade-album-item -->
+                                <div class="ashade-album-item ashade-grid-item">
+                                    <div class="ashade-album-item__image">
+                                        <img src="http://foremostmusic.fr/storage/artists/November2018/gD9MqQUfBnPYtxkGMRzW.jpeg" alt="Isabela Clerc" width="290" height="290">
+                                    </div>
+                                    <h5>
+                                        <span>FR · BE · LU · NL</span>
+                                        Isabela Clerc
+                                    </h5>
+                                    <a href="{{ route('artists.show1') }}" class="ashade-album-item__link"></a>
                                 </div><!-- .ashade-album-item -->
                             </div><!-- .ashade-albums-grid -->
                         </div>

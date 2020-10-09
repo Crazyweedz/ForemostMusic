@@ -33,4 +33,13 @@ class ArtistController extends Controller
 
         return view('artists.show', compact('artist', 'socials'));
     }
+
+    /**
+     * Show the profile for the given user.
+     * @return Application|Factory|View
+     */
+    public function show1()
+    {
+        return view('artists.show1');
+    }
 }
