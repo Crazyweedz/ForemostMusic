@@ -26,27 +26,81 @@
                     <div class="ashade-row">
                         <div class="ashade-col col-4">
                             <div class="ashade-contact-details">
-{{--                                <h4 class="ashade-contact-details__title">--}}
-{{--                                    <span>Nos contacts et nos reseaux sociaux</span>--}}
-{{--                                    Où nous trouver--}}
-{{--                                </h4>--}}
-{{--                                <hr>--}}
-                                @foreach($contacts as $contact)
-                                    <h5 class="ashade-contact-details__title">
-                                        <span>{{ $contact->fonction }}</span>
-                                        {{ $contact->name }}
-                                    </h5>
-                                    <ul class="ashade-contact-details__list" style="margin-bottom: 30px">
-                                        <li>
-                                            <i class="ashade-contact-icon la la-phone"></i>
-                                            <a href="tel:+11234567890">{{ $contact->telephone }}</a>
-                                        </li>
-                                        <li>
-                                            <i class="ashade-contact-icon la la-envelope"></i>
-                                            <a href="mailto:a.shade@example.com">{{ $contact->email }}</a>
-                                        </li>
-                                    </ul>
-                                @endforeach
+
+
+
+
+
+                                <h5 class="ashade-contact-details__title">
+                                    <span>Fondateur - Booking Agent</span>
+                                    Charton Emmanuel
+                                </h5>
+                                <ul class="ashade-contact-details__list" style="margin-bottom: 30px">
+                                    <li>
+                                        <i class="ashade-contact-icon la la-phone"></i>
+                                        <a href="tel:+11234567890">07 83 09 33 73</a>
+                                    </li>
+                                    <li>
+                                        <i class="ashade-contact-icon la la-envelope"></i>
+                                        <a href="mailto:a.shade@example.com">manu@foremostmusic.fr</a>
+                                    </li>
+                                </ul>
+                                <h5 class="ashade-contact-details__title">
+                                    <span>Booking Agent - Simina Grigoriu</span>
+                                    Dhaussy Julien
+                                </h5>
+                                <ul class="ashade-contact-details__list" style="margin-bottom: 30px">
+                                    <li>
+                                        <i class="ashade-contact-icon la la-phone"></i>
+                                        <a href="tel:+11234567890">06 64 32 32 47</a>
+                                    </li>
+                                    <li>
+                                        <i class="ashade-contact-icon la la-envelope"></i>
+                                        <a href="mailto:a.shade@example.com">juliendhaussy51@gmail.com</a>
+                                    </li>
+                                </ul>
+                                <h5 class="ashade-contact-details__title">
+                                    <span>Fondateur - Booking Agent</span>
+                                    Durupt Julien
+                                </h5>
+                                <ul class="ashade-contact-details__list" style="margin-bottom: 30px">
+                                    <li>
+                                        <i class="ashade-contact-icon la la-phone"></i>
+                                        <a href="tel:+11234567890">06 66 73 02 49</a>
+                                    </li>
+                                    <li>
+                                        <i class="ashade-contact-icon la la-envelope"></i>
+                                        <a href="mailto:a.shade@example.com">julien@foremostmusic.fr</a>
+                                    </li>
+                                </ul>
+                                <h5 class="ashade-contact-details__title">
+                                    <span>Booking Agent - Belgique</span>
+                                    Konarsky Jeremy
+                                </h5>
+                                <ul class="ashade-contact-details__list" style="margin-bottom: 30px">
+                                    <li>
+                                        <i class="ashade-contact-icon la la-phone"></i>
+                                        <a href="tel:+11234567890">+32 04 70 02 98 94</a>
+                                    </li>
+                                    <li>
+                                        <i class="ashade-contact-icon la la-envelope"></i>
+                                        <a href="mailto:a.shade@example.com">booking@foremostmusic.fr</a>
+                                    </li>
+                                </ul>
+                                <h5 class="ashade-contact-details__title">
+                                    <span>Assistante Administrative</span>
+                                    Schmittinger Emilie
+                                </h5>
+                                <ul class="ashade-contact-details__list" style="margin-bottom: 30px">
+                                    <li>
+                                        <i class="ashade-contact-icon la la-phone"></i>
+                                        <a href="tel:+11234567890">07 83 09 33 73</a>
+                                    </li>
+                                    <li>
+                                        <i class="ashade-contact-icon la la-envelope"></i>
+                                        <a href="mailto:a.shade@example.com">emilie@foremostmusic.fr</a>
+                                    </li>
+                                </ul>
 
                             </div><!-- .ashade-contact-details -->
                         </div><!-- .ashade-col -->
